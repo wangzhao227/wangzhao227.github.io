@@ -52,6 +52,6 @@ html p, html a, html span, html li, html div {
 
 /* 针对 About Me 页面的两端对齐设置 */
 .about-section p {
-    text-align: justify;
+    text-align: justify !important;
     text-justify: inter-word; /* 优化英文单词间距 */
 }
