@@ -22,10 +22,10 @@ If my research resonates with you and you'd like to discuss it further, please d
 Representative publications in recent two years
 ------
 
-*  **Z. Wang**, S.A. Bentley, J. Li, K.Y. Wan, A.C.H. Tsang, Physical Review Letters, in press (2026)
-*  **Z. Wang**, A.C.H. Tsang, Proceedings of the National Academy of Sciences, 2025, 122, e2425369122.
-*  Y. Liu#, **Z. Wang#**, A.C.H. Tsang, Soft Matter, 2025, 21, 2363-2373.
+*  **Z. Wang**, S.A. Bentley, J. Li, K.Y. Wan, A.C.H. Tsang, **Physical Review Letters**, in press (2026)
+*  **Z. Wang**, A.C.H. Tsang, **Proceedings of the National Academy of Sciences**, 2025, 122, e2425369122.
+*  Y. Liu#, **Z. Wang#**, A.C.H. Tsang, **Soft Matter**, 2025, 21, 2363-2373.
 
 For more info
 ------
-The full publication list can be found in [google scholar]([https://academicpages.github.io/markdown/](https://scholar.google.com/citations?hl=en&user=9uGyc94AAAAJ&view_op=list_works&sortby=pubdate)).
+The full publication list can be found on [Google Scholar]((https://scholar.google.com/citations?user=9uGyc94AAAAJ&hl=en)).
