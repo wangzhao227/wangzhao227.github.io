@@ -42,7 +42,10 @@
     "vendor/font-awesome/brands"
 ;
 
-/* 针对整个网页强制添加中文字体栈 */
-body, h1, h2, h3, h4, h5, h6, p, a, span, .site-title, .author-name {
+/* 放在 assets/css/main.scss 的最后 */
+
+html body, 
+html h1, html h2, html h3, html h4, html h5, html h6,
+html p, html a, html span, html li, html div {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", sans-serif !important;
 }
